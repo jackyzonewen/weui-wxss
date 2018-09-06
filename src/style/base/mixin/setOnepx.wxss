@@ -18,7 +18,7 @@
 * limitations under the License.
 */
 
-.setTopLine(@c: #C7C7C7) {
+.setTopLine(@c: #e4e4e4) {
     content: " ";
     position: absolute;
     left: 0;
@@ -29,7 +29,7 @@
     color: @c;
 }
 
-.setBottomLine(@c: #C7C7C7) {
+.setBottomLine(@c: #e4e4e4) {
     content: " ";
     position: absolute;
     left: 0;
@@ -40,7 +40,7 @@
     color: @c;
 }
 
-.setLeftLine(@c: #C7C7C7) {
+.setLeftLine(@c: #e4e4e4) {
     content: " ";
     position: absolute;
     left: 0;
@@ -51,7 +51,7 @@
     color: @c;
 }
 
-.setRightLine(@c: #C7C7C7) {
+.setRightLine(@c: #e4e4e4) {
     content: " ";
     position: absolute;
     right: 0;
